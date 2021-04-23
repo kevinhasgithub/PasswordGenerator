@@ -1,0 +1,45 @@
+button {
+    background-color: #3498db;
+    color: #ecf0f1;
+    text-align: center;
+    border-radius: 10px;
+    border: 0px solid;
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    outline: none;
+}
+
+button:active {
+    background-color: #2ecc71;
+}
+
+p {
+    color: #ecf0f1;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 10px;
+    padding-top: 30px;
+    border: 0px;
+    margin: 0px;
+    font-weight: 300;
+    font-size: medium;
+}
+
+#buttonContainer {
+    width: 245px;
+    padding: 20;
+}
+
+body {
+    background-color: #2c3e50;
+}
+
+html, body, div {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Password Generator",
+    "version": "1",
+    "manifest_version": 2,
+    "description": "An Edge extension to generate a secure password.",
+    "browser_action": {
+        "default_popup": "popup/popup.html"
+    }
+}
